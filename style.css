@@ -1,0 +1,64 @@
+body{
+    background-image: url("bg.jpg");
+}
+.calbody{
+    background-color: #7B8FA1;
+    width: 600px;
+    height: 700px;
+   margin: auto;
+   margin-top: 30px;
+   text-align: center;
+   font-size: 30px;
+   border: 10px solid #404B69;
+   font-family: 'Arvo', cursive;
+   font-weight: 900;
+}
+hr{
+    height: 3px;
+    background-color: #FAD6A5;
+    border: none;
+}
+.calscreen{
+    width: 560px;
+    height: 80px;
+    background-color: #fff;
+    border: 2px solid gray;
+    margin: auto;
+    text-align: right;
+    font-size: 60px;
+}
+.btn{
+    height: 90px;
+    width: 130px;
+    font-size: 40px;
+    border-radius: 10px;
+    border: 2px solid gray;
+  
+    
+}
+.buttons{
+   padding-top: 40px;
+   padding-left: 17px ;
+   
+   
+}
+table{
+    border-spacing: 5px;
+}
+.presseds {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  .btn:hover{
+    background-color: #808080
+
+  }
+  .note{
+    background-color: azure;
+    width: 250px;
+    height: 100px;
+    overflow-y: scroll;
+    font-family: 'Arvo', cursive;
+    position: relative;
+    bottom: 300px;
+  }
